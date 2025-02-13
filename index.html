@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔮Gatarot!</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div style="text-align: center;">
+        <h1>🔮Gatarot!</h1>
+        <!--<img src="imgs/logo shaman.png" width="5%">-->
+        <div id="Options">
+            <h2>⚙️Opções</h2>
+            <form>
+                <!--Tema-->
+                <label>✨Tema: </label>
+                <select name="theme" id="theme">
+                    <option value="general">⚪Geral</option>
+                    <option value="love">❤️Amor</option>
+                    <option value="job">👷Trabalho/Escola</option>
+                </select><br>
+
+                <!--Quantidade de cartas-->
+                <label>🎲Quantidade de cartas: </label>
+                <input type="number" id="cardCount" name="cardCount" min="1" max="6" value="3"><br>
+
+                <!--Estilo baralho-->
+                <label>🃏Estilo baralho: </label>
+                <select name="deck" id="deck">
+                    <option value="default-deck">⚪Default</option>
+                    <option value="default-deck-censurado">⚫Default Censurado</option>
+                </select><br>
+
+                <!--Tirar-->
+                <button type="button" onclick="drawCards()">😺Tirar!</button>
+                
+            </form>
+            <h2>📰Cartas</h2>
+            <div id="results" class="card-container"></div>
+            <div id="ai-general" class="ai-general">
+                <h2>🔍Interpretação geral no contexto</h2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

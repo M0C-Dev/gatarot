@@ -1,0 +1,203 @@
+{
+    "cartas": [
+      {
+        "nome": "O Louco",
+        "imagem": "o-louco",
+        "significados": {
+          "general": "Novos começos, espontaneidade, aventura.",
+          "love": "Relacionamentos inesperados, liberdade emocional.",
+          "job": "Início de novos projetos, coragem para mudanças."
+        }
+      },
+      {
+        "nome": "O Mago",
+        "imagem": "o-mago",
+        "significados": {
+          "general": "Habilidade, manifestação, oportunidades.",
+          "love": "Conexão intensa, magnetismo no romance.",
+          "job": "Oportunidades de sucesso através de habilidades e criatividade."
+        }
+      },
+      {
+        "nome": "A Sacerdotisa",
+        "imagem": "a-sacerdotisa",
+        "significados": {
+          "general": "Intuição, mistério, sabedoria oculta.",
+          "love": "Sentimentos ocultos, conexões espirituais.",
+          "job": "Intuição no trabalho, soluções vindas de dentro."
+        }
+      },
+      {
+        "nome": "A Imperatriz",
+        "imagem": "a-imperatriz",
+        "significados": {
+          "general": "Fertilidade, abundância, criação.",
+          "love": "Relacionamento em crescimento, conexão profunda.",
+          "job": "Crescimento e prosperidade no trabalho, colheita de frutos."
+        }
+      },
+      {
+        "nome": "O Imperador",
+        "imagem": "o-imperador",
+        "significados": {
+          "general": "Estrutura, autoridade, estabilidade.",
+          "love": "Relação sólida, proteção, compromisso.",
+          "job": "Estabilidade e liderança no trabalho, respeito e controle."
+        }
+      },
+      {
+        "nome": "O Papa",
+        "imagem": "o-papa",
+        "significados": {
+          "general": "Tradição, espiritualidade, ensino.",
+          "love": "Compromisso sério, valores tradicionais.",
+          "job": "Ensino e orientação no trabalho, sabedoria prática."
+        }
+      },
+      {
+        "nome": "Os Enamorados",
+        "imagem": "os-enamorados",
+        "significados": {
+          "general": "Escolhas, harmonia, conexões.",
+          "love": "Relacionamentos importantes, decisões no amor.",
+          "job": "Decisões cruciais para o futuro profissional ou acadêmico."
+        }
+      },
+      {
+        "nome": "O Carro",
+        "imagem": "o-carro",
+        "significados": {
+          "general": "Determinação, controle, sucesso.",
+          "love": "Avanço em relações, conquista amorosa.",
+          "job": "Controle e foco para alcançar o sucesso no trabalho ou estudo."
+        }
+      },
+      {
+        "nome": "A Justiça",
+        "imagem": "a-justica",
+        "significados": {
+          "general": "Equilíbrio, verdade, consequências.",
+          "love": "Relacionamento baseado em honestidade.",
+          "job": "Tomada de decisões justas no trabalho, equilíbrio entre deveres."
+        }
+      },
+      {
+        "nome": "O Eremita",
+        "imagem": "o-eremita",
+        "significados": {
+          "general": "Autoconhecimento, busca interior, solitude.",
+          "love": "Momento de introspecção no relacionamento.",
+          "job": "Reflexão sobre sua carreira, busca por direção."
+        }
+      },
+      {
+        "nome": "A Roda da Fortuna",
+        "imagem": "a-roda-da-fortuna",
+        "significados": {
+          "general": "Ciclos, destino, mudanças inesperadas.",
+          "love": "Reviravoltas românticas, carma nos relacionamentos.",
+          "job": "Mudanças inesperadas no trabalho, ciclos de oportunidades."
+        }
+      },
+      {
+        "nome": "A Força",
+        "imagem": "a-forca",
+        "significados": {
+          "general": "Coragem, controle, determinação.",
+          "love": "Paciência e confiança em relacionamentos.",
+          "job": "Superar desafios no trabalho, persistência e controle."
+        }
+      },
+      {
+        "nome": "O Enforcado",
+        "imagem": "o-enforcado",
+        "significados": {
+          "general": "Nova perspectiva, sacrifício, pausa.",
+          "love": "Relação em pausa, necessidade de mudança.",
+          "job": "Pausa necessária no trabalho, reavaliar direções profissionais."
+        }
+      },
+      {
+        "nome": "A Morte",
+        "imagem": "a-morte",
+        "significados": {
+          "general": "Transformação, fim de ciclos, renascimento.",
+          "love": "Encerramento ou transformação em relações.",
+          "job": "Mudança radical no trabalho, novos inícios após encerramentos."
+        }
+      },
+      {
+        "nome": "A Temperança",
+        "imagem": "a-temperanca",
+        "significados": {
+          "general": "Equilíbrio, paciência, harmonia.",
+          "love": "Relacionamento saudável e estável.",
+          "job": "Equilíbrio entre trabalho e vida pessoal, harmonia no ambiente profissional."
+        }
+      },
+      {
+        "nome": "O Diabo",
+        "imagem": "o-diabo",
+        "significados": {
+          "general": "Apego, vícios, tentação.",
+          "love": "Relação obsessiva, desejo intenso.",
+          "job": "Trabalhos tóxicos, vícios no ambiente de trabalho ou estudo."
+        }
+      },
+      {
+        "nome": "A Torre",
+        "imagem": "a-torre",
+        "significados": {
+          "general": "Mudança drástica, caos, reconstrução.",
+          "love": "Separação ou mudanças inesperadas no relacionamento.",
+          "job": "Mudanças súbitas no trabalho, desafios inesperados."
+        }
+      },
+      {
+        "nome": "A Estrela",
+        "imagem": "a-estrela",
+        "significados": {
+          "general": "Esperança, inspiração, renovação.",
+          "love": "Novos começos românticos, cura emocional.",
+          "job": "Inspiração e renovação no trabalho, novos projetos iluminadores."
+        }
+      },
+      {
+        "nome": "A Lua",
+        "imagem": "a-lua",
+        "significados": {
+          "general": "Ilusões, mistério, confusão.",
+          "love": "Dúvidas no relacionamento, enganos.",
+          "job": "Confusão ou incertezas no trabalho, falta de clareza."
+        }
+      },
+      {
+        "nome": "O Sol",
+        "imagem": "o-sol",
+        "significados": {
+          "general": "Alegria, sucesso, clareza.",
+          "love": "Felicidade e harmonia na relação.",
+          "job": "Sucesso e clareza no trabalho, reconhecimento e crescimento."
+        }
+      },
+      {
+        "nome": "O Julgamento",
+        "imagem": "o-julgamento",
+        "significados": {
+          "general": "Renascimento, tomada de decisões, despertar.",
+          "love": "Nova fase no relacionamento, reconciliação.",
+          "job": "Avaliação do progresso profissional, decisões importantes para o futuro."
+        }
+      },
+      {
+        "nome": "O Mundo",
+        "imagem": "o-mundo",
+        "significados": {
+          "general": "Realização, ciclo completo, plenitude.",
+          "love": "Relação completa e bem-sucedida.",
+          "job": "Conclusão de projetos, realização e sucesso no trabalho."
+        }
+      }
+    ]
+  }
+  
